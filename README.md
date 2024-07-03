@@ -2,7 +2,7 @@ Es una página que puede servir como catálogo para una librería.
 
 Para verla solo tienes que descargar el proyecto y lo guardas en una carpeta en tu equipo que se llame "Libreria".
 
-Abres la carpeta y se deb ver algo asi:
+Abres la carpeta y se debe ver algo asi:
 
 ![image](https://github.com/antonylsalazarr/PaginaWebLibreria/assets/149880665/56b81975-7fd3-4eef-90ed-4583b155b3b6)
 
